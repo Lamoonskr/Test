@@ -1,5 +1,5 @@
 options:
-  # Auto update
+  ## Auto update
   auto-update: true
   # Whether the mob egg is added directly to player inventory.
   # (It will drop at player's location if it is full)
