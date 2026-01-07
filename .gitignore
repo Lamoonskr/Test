@@ -6,6 +6,7 @@
 
 # Inclusions / Exclusions done manually in this file or through plugin commands
 # MineCICD GITIGNORE PART BEGIN MARKER
+!/plugins/AntiAFK/config.yml*
 !/plugins/MobCapturer/config.yml*
 # MineCICD GITIGNORE PART END MARKER
 

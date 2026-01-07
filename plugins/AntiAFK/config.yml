@@ -1,0 +1,10 @@
+## AntiAFK config
+
+# How long to execute command (minute)
+AFKTime: 10
+
+# Commands to execute (%player%)
+# use msg to send message
+Commands:
+  - 'msg &cAFK message'
+  - 'kick %player% AFK'
